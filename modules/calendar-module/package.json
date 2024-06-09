@@ -1,0 +1,9 @@
+{
+  "name": "react-native-calendar-module",
+  "version": "0.0.0",
+  "description": "This is a test native module",
+  "main": "src/index",
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme"
+}
